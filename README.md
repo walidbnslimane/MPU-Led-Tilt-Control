@@ -2,6 +2,8 @@
 
 This project demonstrates how to control an LED using the MPU6050 accelerometer and gyroscope sensor connected to an Arduino Uno. When the Arduino detects a specific tilt angle from the MPU6050, the LED responds by turning on or off. This project can be useful for tilt-based control in various applications.
 
+https://github.com/user-attachments/assets/3d977d3e-f013-457e-82d3-f72368918978
+
 
 ## Features
 - **Tilt Detection**: Uses MPU6050 to detect tilt in the X, Y, or Z axis.

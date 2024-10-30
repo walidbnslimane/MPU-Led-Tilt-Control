@@ -30,7 +30,8 @@ This project demonstrates how to control an LED using the MPU6050 accelerometer 
 | A5 (SCL)     | MPU6050 (SCL)    | Clock line for MPU6050 |
 
 ## Circuit Diagram
-<img src="<img src="https://github.com/user-attachments/assets/1299b173-764b-415f-aef3-6cea27840ccd">">
+<img src="https://github.com/user-attachments/assets/1299b173-764b-415f-aef3-6cea27840ccd">
+
 Include a diagram that shows connections between the Arduino Uno, MPU6050, LED, and resistor.
 ## How It Works
 1. The MPU6050 measures tilt along the X, Y, and Z axes.

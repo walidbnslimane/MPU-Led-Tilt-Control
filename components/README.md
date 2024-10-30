@@ -9,9 +9,6 @@
 | Breadboard          | Organizing components and connections                   | -                             | <img src="https://github.com/user-attachments/assets/0b694d76-3eea-4123-a352-6cec240d29b1" alt="Breadboard" width="330">  |
 | Jumper Wires        | Male-to-male connectors for wiring the components       | Digital Pins, GND              | <img src="https://github.com/user-attachments/assets/b21f7fa1-e0f0-46e0-b93c-fa01bac3a849" alt="Jumper Wires" width="330">  |
 
-## Circuit Diagram
-
-Include a diagram that shows connections between Arduino Uno, MPU6050, LED, and resistor.
 
 ## Connections Breakdown
 
